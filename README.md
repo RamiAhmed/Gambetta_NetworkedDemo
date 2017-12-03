@@ -5,7 +5,9 @@ Unity Demo showcasing networking concepts including prediction, interpolation an
 This is a minimal demo project made in Unity 2017.2.0f3 (but it should work in older versions as well). 
 The demo project is a very close implementation of the ["Gambetta Demo" on Network Architecture](http://www.gabrielgambetta.com/client-server-game-architecture.html) - All credits to Gabriel Gambetta for that.
 
-The demo is basically a `C#` Unity implementation of [Gambetta's Live Demo](http://www.gabrielgambetta.com/client-side-prediction-live-demo.html). Only this time it is actually networked, using [Lidgren's Network Library](https://github.com/lidgren/lidgren-network-gen3). All credits to Lidgren for his excellent network library!
+The demo is basically a `C#` Unity implementation of [Gambetta's Live Demo](http://www.gabrielgambetta.com/client-side-prediction-live-demo.html). 
+
+Only this time it is actually networked, using [Lidgren's Network Library](https://github.com/lidgren/lidgren-network-gen3). All credits to Lidgren for his excellent network library!
 
 # Instructions
 1. Open up the scene "GambettaNetworkedDemoScene"
